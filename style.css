@@ -1,0 +1,14 @@
+body 
+{
+    background-image: url("../imag/chatb.jpg");
+    background-size: 940px;
+    background-position:750px 0px ;
+    color: burlywood;
+}
+.mess
+{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-top: 200px;
+}
